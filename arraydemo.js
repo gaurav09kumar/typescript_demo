@@ -1,0 +1,13 @@
+var fruits;
+fruits = ['mango', 'apple', 'banana'];
+console.log(fruits);
+var animals;
+animals = ['dog', 'cat', 'Tiger'];
+console.log(animals);
+var persons;
+persons = ['Ram', 20, 'John', 44, 56.6];
+console.log(persons);
+var demo;
+demo = ['Ram', 20, 'John', 44, 56.6, true];
+console.log(demo);
+console.log(demo[1]);
